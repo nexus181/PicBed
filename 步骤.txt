@@ -1,0 +1,17 @@
+在带有 Readme.md 文件的那个文件夹内，右键打开 Git Bash（注意看清楚是什么文件夹），然后依次输入以下命令把更改推送到远程仓库，最后一步不成功可能要多试几次。
+
+# 将更改提交
+
+git add .
+
+git commit -m "更新图片"
+
+# 推送至github仓库
+
+git push
+
+https://cdn.staticaly.com/gh/nexus181/PicBed@main/路径/文件名
+
+http://tc.auroracloud.top/路径/文件名
+
+http://cf.auroracloud.top/路径/文件名
