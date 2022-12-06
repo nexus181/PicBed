@@ -15,3 +15,7 @@ https://cdn.staticaly.com/gh/nexus181/PicBed@main/路径/文件名
 http://tc.auroracloud.top/路径/文件名
 
 http://cf.auroracloud.top/路径/文件名
+
+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  token
+
+4DTBZ-HRA6D-RAF4B-HLNP3-IESUQ-RKBSJ   key
